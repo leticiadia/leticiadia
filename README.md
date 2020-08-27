@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Leticia 👋
 
 <!--
 **leticiadia/leticiadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ :woman_technologist I'm a technology student
+:walking_woman Taking the first steps in the web development area
+🌱 I am currently learning javascript
+💬 Ask me about technology, JavaScript, HTML and CSS
+📫 How to find me contatoleticiadia@gmail.com or @ oliverdays19
