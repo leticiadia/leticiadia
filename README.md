@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🚶‍♀️ Taking the first steps in the web development area
 - 🌱 I am currently learning javascript
 - 💬 Ask me about technology, JavaScript, HTML and CSS
-- 📫 How to find me contatoleticiadia@gmail.com or @ oliverdays19
+- 📫 How to find me contatoleticiadia@gmail.com or @oliverdays19
