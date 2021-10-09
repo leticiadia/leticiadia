@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Leticia 👩👋
 
-<p>I am currently part of the SENAI-AL delegation from Alagoas as a competitor Knowledge Olympics in the Web Design category, but training to reach Worldskills 2022.</p>
+<p>I am currently part of the SENAI-AL delegation from Alagoas as a competitor Knowledge Olympiad in the Web Design category, but training to reach the Worldskills 2022.</p>
 
 - 👩‍💻 I love sharing my learning process on my social networks
 - 💬 Ask me about technology, movies, universe geek, skateboard, music, etc.
