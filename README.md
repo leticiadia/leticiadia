@@ -1,5 +1,3 @@
-### Hi, I'm Leticia 👋
-
 <!--
 **leticiadia/leticiadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👩‍💻 I'm a technology student 
-- 🚶‍♀️ Taking the first steps in the web development area
-- 🌱 I am currently learning javascript
-- 💬 Ask me about technology, JavaScript, HTML and CSS
+## Hi, I'm Leticia 👩👋
+
+---
+
+<p>I am currently part of the SENAI-AL delegation from Alagoas as a competitor Knowledge Olympics in the Web Design category, but training to reach Worldskills 2022.</p>
+
+- 👩‍💻 I love sharing my learning process on my social networks
+- 💬 Ask me about technology, movies, universe geek, skateboard, music, etc.
 - 📫 How to find me contatoleticiadia@gmail.com or @oliverdays19
+- ⚡ Curiosity: I love coffee and tea ☕🍵
