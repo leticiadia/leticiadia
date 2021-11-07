@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 👩‍💻 I love sharing my learning process on my social networks
 - 💜 Love being part of communities and contributing for them.
 - 💬 Ask me about technology, movies, universe geek, skateboard, music, etc.
-- 📫 How to find me contatoleticiadia@gmail.com or @oliverdays19
+- 📫 How to find me contatoleticiadia@gmail.com 
 - ⚡ Curiosity: I love coffee and tea ☕🍵
