@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Leticia 👩👋
 
-<p>I am currently part of the SENAI-AL delegation from Alagoas as a competitor Knowledge Olympiad in the Web Design category, but training to reach the Worldskills 2022.</p>
+<p>
+I'm a full stack developer and passionate about the entire universe of technology. I currently work on systems and websites development at SENAI - AL, where I also had the opportunity to be a competitor in the Worldskills 2022 National Selection, winning the 3rd place medal in the occupation of Web Technologies.
+</p>
 
 - 👩‍💻 I love sharing my learning process on my social networks
 - 💜 Love being part of communities and contributing for them.
