@@ -24,3 +24,4 @@ I'm a full stack developer and passionate about the entire universe of technolog
 - 💬 Ask me about technology, movies, universe geek, skateboard, music, etc.
 - 📫 How to find me contatoleticiadia@gmail.com 
 - ⚡ Curiosity: I love coffee and tea ☕🍵
+- 📝 I have a blog with my friend Mikael called TechKnowledge: https://techknowledge.blog/
