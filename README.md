@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="banner-teste.png">
+
 ## Hi, I'm Leticia 👩👋
 
 <p>
@@ -20,8 +22,8 @@ I'm a full stack developer and passionate about the entire universe of technolog
 </p>
 
 - 👩‍💻 I love sharing my learning process on my social networks
-- 💜 Love being part of communities and contributing for them.
+- 💜 I am ambassador of the Space Squad community of Rocketseat
+- 🚀 Love being part of communities and contributing for them
 - 💬 Ask me about technology, movies, universe geek, skateboard, music, etc.
-- 📫 How to find me contatoleticiadia@gmail.com 
 - ⚡ Curiosity: I love coffee and tea ☕🍵
 - 📝 I have a blog with my friend Mikael called TechKnowledge: https://techknowledge.blog/
