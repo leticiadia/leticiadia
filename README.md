@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="banner-teste.png">
+<img src="banner.png">
 
 ## Hi, I'm Leticia 👩👋
 
