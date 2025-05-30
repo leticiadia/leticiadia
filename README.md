@@ -20,7 +20,6 @@ I'm a full stack developer and passionate about the entire universe of technolog
 </p>
 
 - 👩‍💻 I love sharing my learning process on my social networks
-- 💜 I am ambassador of the Space Squad community of Rocketseat
 - 🚀 Love being part of communities and contributing for them
 - 💬 Ask me about technology, movies, universe geek, skateboard, music, etc.
 - ⚡ Curiosity: I love coffee and tea ☕🍵
