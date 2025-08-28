@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hi, I'm Leticia 👩👋
 
 <p>
-I'm a full stack developer and passionate about the entire universe of technology. I currently work on systems and websites development at SENAI - AL, where I also had the opportunity to be a competitor in the Worldskills 2022 National Selection, winning the 3rd place medal in the occupation of Web Technologies.
+I'm a full stack developer and passionate about the entire universe of technology.
 </p>
 
 - 👩‍💻 I love sharing my learning process on my social networks
